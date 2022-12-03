@@ -1,2 +1,5 @@
 # stc_hw_2022
-Statistics Canada interview homework
+Stat Can interview homework
+
+
+Please open the Jupyter notebook
